@@ -7,7 +7,7 @@ ElmNewRelic JS library is a wrapper around NewRelic Nreum SDK that support ELM v
 ## Import
 
 ```js
-import * as elmNewRelic from 'elm-newrelic';
+import * as elmNewRelic from 'elm-newrelic-nreum';
 
 const elmApp = Elm.Main.init({
   node: document.getElementById('root'),

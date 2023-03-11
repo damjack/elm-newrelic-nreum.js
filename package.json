@@ -1,7 +1,7 @@
 {
   "name": "elm-newrelic-nreum.js",
   "version": "1.0.0",
-  "description": "Typescript library to wrap NewRelic NREUM for elm-newrelic Elm package",
+  "description": "Typescript library to wrap NewRelic NREUM for elm-newrelic-nreum Elm package",
   "files": [
     "dist/*"
   ],
