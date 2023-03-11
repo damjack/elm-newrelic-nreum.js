@@ -1,6 +1,6 @@
 {
   "name": "@damjack/elm-newrelic-nreum.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Typescript library to wrap NewRelic NREUM for elm-newrelic-nreum Elm package",
   "files": [
     "dist/*"
@@ -32,9 +32,6 @@
   "author": "Damiano Giacomello <giacomello.damiano@gmail.com>",
   "license": "BSD-3-Clause",
   "homepage": "https://github.com/damjack/elm-newrelic/packages/js#readme",
-  "engines": {
-    "node": ">=16.14.0"
-  },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^22.0.2",
     "@rollup/plugin-node-resolve": "^13.3.0",
