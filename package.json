@@ -1,5 +1,5 @@
 {
-  "name": "elm-newrelic-nreum.js",
+  "name": "@damjack/elm-newrelic-nreum.js",
   "version": "1.0.0",
   "description": "Typescript library to wrap NewRelic NREUM for elm-newrelic-nreum Elm package",
   "files": [
@@ -75,5 +75,11 @@
     "eslint-plugin-tsdoc": "^0.2.17",
     "eslint-plugin-typescript-sort-keys": "^2.1.0",
     "newrelic": "^8.13.2"
+  },
+  "bugs": {
+    "url": "https://github.com/damjack/elm-newrelic/issues"
+  },
+  "directories": {
+    "doc": "docs"
   }
 }
